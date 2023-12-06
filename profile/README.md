@@ -10,10 +10,11 @@ Bioinformatics repositories are snakemake-based pipelines converting raw sequenc
 
 #### Macro-scale multi-omics
 
-* [Host genomics](https://github.com/3d-omics/Bioinfo_Macro_Host_Genomics)
-* [Host transcriptomics](https://github.com/3d-omics/Bioinfo_Macro_Host_Transcriptomics)
-* [Microbial genome-resolved metagenomics](https://github.com/3d-omics/Bioinfo_Macro_Genome_Resolved_Metagenomics)
-* [Microbial metatranscriptomics](https://github.com/3d-omics/Bioinfo_Macro_Microbial_Metatranscriptomics)
+* [Host genomics](https://github.com/3d-omics/hg_genotype)
+* [Host transcriptomics](https://github.com/3d-omics/ht_quant)
+* [Microbial genome-resolved metagenomics](https://github.com/3d-omics/mg_assembly)
+* [Microbial metatranscriptomics](https://github.com/3d-omics/ht_quant)
+* [Microbial quantification](https://github.com/3d-omics/mg_quant)
 
 #### Micro-scale multi-omics
 These repositories are under development.
